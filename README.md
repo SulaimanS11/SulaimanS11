@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 😎🎊
 
-I'm proud of this: :)
+What a good looking circuit that is. I wonder who made it?
 
 ![Main2](https://github.com/SulaimanS11/SulaimanS11/assets/95322305/e9ac4b5e-aeff-413d-bdd1-b9ff83bc4b98)
 
