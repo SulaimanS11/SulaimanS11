@@ -54,7 +54,7 @@ I am a **Computer Science and Psychology student** with a specialization in **Co
 - **Operations Manager | Ah Peace! Consumer Products Corporation**  
   - Automated workflows and reduced processing times by 50% using barcode solutions and custom SQL scripts.  
 
-- **Web Development Manager | Factory Liquidators Inc.**  
+- **Network Administrator | Factory Liquidators Inc.**  
   - Led full SDLC projects, improving web traffic by 25% through user-friendly designs and automated processes.
 
 ---
