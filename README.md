@@ -15,10 +15,11 @@ I am a **Computer Science and Psychology student** with a specialization in **Co
 - **Programming Languages:** Python, Java, C/C++, C#, JavaScript, TypeScript, SQL, HTML/CSS, VBA, Assembly  
 - **Frameworks & Tools:** React.js, AWS, MySQL, Git, Bootstrap, Pandas, Eclipse, Tkinter, Socket Programming  
 - **Certifications:**  
-  - MITx 6.00.1x: Introduction to Computer Science and Programming Using Python (Completed)
-  - MITx 6.00.2x: Introduction to Computational Thinking and Data Science (Completed)
-  - AWS Certified Solutions Architect Associate (Ongoing)
-  - Machine Learning Certification (Stanford University - Coursera) (Ongoing)
+  - MITx 6.00.1x: Introduction to Computer Science and Programming Using Python
+  - MITx 6.00.2x: Introduction to Computational Thinking and Data Science
+  - AWS Certified Cloud Practitioner
+  - GitHub Foundations Certification
+  - GitHub Copilot Fundamentals
 
 ---
 
