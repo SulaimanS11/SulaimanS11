@@ -9,7 +9,7 @@
 ## 👨‍🎓 Education 🎓
 **Wilfrid Laurier University** | Waterloo, Ontario  
 Honours B.Sc. in Computer Science & Psychology  
-(Computation & Cognitive Neuroscience) • Expected April 2026
+(Computation & Cognitive Neuroscience)
 
 ---
 
